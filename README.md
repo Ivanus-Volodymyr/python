@@ -7,5 +7,5 @@ This repository contains educational materials and projects developed during the
 To use the code from this repository, first clone it:
 
 ```bash
-git clone https://github.com/yourusername/python.git
+git clone https://github.com/Ivanus-Volodymyr/python.git
 cd python
